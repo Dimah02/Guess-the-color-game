@@ -1,5 +1,4 @@
-# Guess-the-color-game
-Guess the color game
+# Guess the color game
 
 "Test your RGB color skills and see how many points you can score!"
 
